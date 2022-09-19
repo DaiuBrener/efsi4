@@ -19,7 +19,7 @@ root.render(
           2021 del nivel secundario de nuestra Escuela. ¡Muchas gracias a todos por confiar en nuestro proyecto educativo!"
           img= {Inscripcion}
     />
-    <Footer footer="Agustin Rabinowicz Luciana Szwimer y Fausto Oliva © 5A 2022"/>
+    <Footer footer="Daiu Brener © 5A 2022"/>
   </React.StrictMode>
 );
 
